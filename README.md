@@ -36,4 +36,5 @@ Walkthrough of Key Visuals--
    -Gives leadership a quick, filterable snapshot for board/management reporting instead of static spreadsheets.
    -Improves workforce planning — headcount and demographic views help with succession planning and diversity            tracking.
 
-   
+5. Screenshots / Demo:
+     (https://github.com/sdey44235/HR-Analytics-Dashboard/blob/main/Dashboard%20Clipping.jpeg)
